@@ -12,8 +12,9 @@ namespace outparametertest
     {
         static void Main(string[] args)
         {
-            
-            
+
+            Console.WriteLine("hello");
+            Console.Read();
         }
     }
 }
